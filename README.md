@@ -13,7 +13,7 @@ These are not original or production-level projects — just a timeline of my pr
 
 ### ✅ 2024 Projects
 
-> Based on the **[Bro Code Python Full Course (2024)](https://www.youtube.com/watch?v=8ext9G7xspg)**  
+> Based on the **[Bro Code Python Full Course (2024)](https://www.youtube.com/watch?v=ix9cRaBkVe0)**  
 > These projects helped me understand variables, conditionals, loops, functions, and object-oriented basics.
 
 | Project Name               | Description                                 |
@@ -31,12 +31,12 @@ These are not original or production-level projects — just a timeline of my pr
 | `Simple_Weight_Conversion`| Pound ↔ Kilogram converter                  |
 | `Slot_Machine_Program`    | Slot machine simulation                     |
 | `dice_roller`             | Rolls dice with random results              |
-
----
-
-## 📌 Notes
+### 📌 Notes
 
 - These projects are meant for practice and learning only.
 - Not original work unless otherwise specified.
 - If you are the original author and would like content removed or credited differently, contact me.
+---
+
+
 
